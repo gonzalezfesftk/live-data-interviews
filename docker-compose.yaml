@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  entrevista_live:
+    image: jupyter/pyspark-notebook:spark-3.5.0
+    container_name: entorno_entrevista
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - .:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    command: >
+      bash -c "pip install -r /home/jovyan/work/requirements.txt && start-notebook.sh --NotebookApp.token=''"

@@ -1,0 +1,1 @@
+El equipo de DataOps acaba de mandar este Pull Request. El pipeline de Terraform hizo el plan con éxito y está listo para hacer apply. Tienes 5 minutos para decirme si lo apruebas o lo rechazas, y por qué
