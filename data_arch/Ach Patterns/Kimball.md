@@ -13,11 +13,7 @@ El equipo actual defiende el diseño argumentando que:
 
 ---
 ## Preguntas
-- ¿Cómo se llama este antipatrón dentro de la metodología Kimball?
-- ¿Por qué este diseño impacta tan negativamente el performance de herramientas BI como Tableau o Power BI?
-- ¿Cuál es la solución exacta propuesta por Kimball para este problema?
-- ¿Qué cambio específico harías tú en este modelo para mejorar el rendimiento?
-- ¿Por qué este diseño puede ser correcto desde un punto de vista OLTP / 3NF, pero incorrecto para analytics?
+
 ## Modelo Actual de Ventas
 
 ```mermaid
