@@ -4,10 +4,7 @@ Estás revisando un pipeline de un **Lakehouse en Databricks** que utiliza la ar
 
 ---
 ## Pregunta 
-Extraemos datos diarios de una API.
-Para ahorrar almacenamiento en el Lakehouse, nuestro pipeline hace un UPSERT (Merge) directamente en la capa Bronze, manteniendo solo la imagen más reciente de cada cliente.
-Luego limpiamos en Silver y agregamos en Gold.
-Detecta el error catastrófico
+
 ## Contexto del Pipeline
 
 - Los datos se extraen **diariamente desde una API externa**.
