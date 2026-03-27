@@ -18,8 +18,7 @@ Para implementar una arquitectura **Data Mesh**, decidió crear un equipo centra
   - Acelerar el delivery
 
 ## Pregunta
-Descentralizamos la arquitectura creando dominios, y contratamos a 10 ingenieros ultra-senior como equipo central para que le construyan los Data Products a cada dominio para asegurar la calidad.
-¿Qué va a fallar aquí en el peor escenario
+
 ---
 
 ## Diagrama de flujo (estado real)
