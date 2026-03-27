@@ -27,4 +27,7 @@ Lanza Jupyter Lab:
 
 Bash
 python3 -m jupyterlab
+
+
+
 **Nota legal:** Este material es confidencial y de uso exclusivo para este proceso de entrevistas. Revisa el archivo `LICENSE` para más detalles.
